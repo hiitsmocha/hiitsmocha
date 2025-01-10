@@ -1,4 +1,4 @@
-# Welcome to my Github page. My name is Nam Nguyen, a passionate student developer from Rice University:
+### Welcome to my Github page. My name is Nam Nguyen, a passionate student developer from Rice University:
 🔭 I’m currently pursuing the Bachelor of Science in Computer Science, with minors in Data Science and FCAM (Financial Computationa and Modeling) at Rice University<br>👯 I’m actively looking for SWE/AI/ML/Quant Finance/Quant Research Summer 2025 internship🌱 I’m currently learning ML/Deep Learning, IOS app development and HFT algorithms<br>💬 How to reach me: nn36@rice.edu<br>🤝 Let's connect on LinkedIn: https://www.linkedin.com/in/nam-nguyen06/<br>⚡ Fun fact: CSGO semi-pro player
 
 
